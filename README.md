@@ -69,8 +69,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-id-system.git
-cd smart-id-system
+git clone https://github.com/geekskaran/Event_ID_Card_Generator_and_Attendance_System.git
+cd Event_ID_Card_Generator_and_Attendance_System
 ```
 
 2. Install dependencies:
